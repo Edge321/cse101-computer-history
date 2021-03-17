@@ -1,5 +1,5 @@
 # Computer Graphics, Music, Art
-# Computers Makes Movies
+# Computers Makes Movies - Shrek
 
 The roles for this assignment  
 Korbin - Time Period, Conclusion, References  
