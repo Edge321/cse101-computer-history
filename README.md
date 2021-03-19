@@ -3,5 +3,5 @@
 
 The roles for this assignment  
 Korbin - Time Period, Conclusion, References  
-Angel - Computer Software, Introduction  
-Edgar - Computer Hardware  
+Angel - Computer Software, Introduction, References  
+Edgar - Computer Hardware, References
